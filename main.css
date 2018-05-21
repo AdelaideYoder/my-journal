@@ -1,4 +1,10 @@
 body {
-    background: blueviolet;
+    background: lightseagreen;
     color: yellow;
+    font-family: 'Della Respira'; font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
 }
